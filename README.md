@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Charan 👋
 
-<!--
-**charankotta32-star/charankotta32-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI & ML) @ SRM Institute of Science and Technology Kattankulathur  
+🤖 Interested in AI, Robotics, and IoT  
+🚀 Currently building an RFID-based Smart Attendance System  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python
+- Arduino
+- NumPy (Basic)
+- Pandas (Basic)
+- IoT Basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Current Work
+- RFID Smart Attendance System (IoT Project)
+- Exploring AI & Machine Learning
+
+## 📫 Connect with me
+- GitHub: https://github.com/charankotta32-star## Hi there 👋
