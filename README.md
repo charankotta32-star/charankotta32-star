@@ -16,4 +16,4 @@
 - Exploring AI & Machine Learning
 
 ## 📫 Connect with me
-- GitHub: https://github.com/charankotta32-star## Hi there 👋
+- GitHub: https://github.com/charankotta32-star
