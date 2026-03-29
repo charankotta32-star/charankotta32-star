@@ -1,19 +1,38 @@
-# Hi, I'm Charan 👋
+# 👋 Hi, I'm Charan
 
-🎓 B.Tech CSE (AI & ML) @ SRM Institute of Science and Technology Kattankulathur  
-🤖 Interested in AI, Robotics, and IoT  
-🚀 Currently building an RFID-based Smart Attendance System  
+🎓 B.Tech CSE (AI & ML) student at SRM University
+💡 Interested in Artificial Intelligence, Machine Learning & Real-World Engineering
 
-## 🔧 Skills
-- Python
-- Arduino
-- NumPy (Basic)
-- Pandas (Basic)
-- IoT Basics
+---
 
-## 📌 Current Work
-- RFID Smart Attendance System (IoT Project)
-- Exploring AI & Machine Learning
+## 🚀 Projects
+
+### 🎬 Movie Recommendation System
+
+* Built using Python, NLP, and Machine Learning
+* Uses cosine similarity to recommend movies
+* Implemented data preprocessing, feature engineering, and vectorization
+
+---
+
+## 🛠️ Skills
+
+* Python
+* C / C++
+* Pandas, NumPy
+* Machine Learning Basics
+* Git & GitHub
+
+---
+
+## 🎯 Goals
+
+* Build strong real-world projects
+* Gain internship experience
+* Work in top tech companies (AI/ML domain)
+
+---
 
 ## 📫 Connect with me
-- GitHub: https://github.com/charankotta32-star
+
+* LinkedIn (coming soon)
