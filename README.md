@@ -1,38 +1,32 @@
-# 👋 Hi, I'm Charan
+# 👋 Hi, I'm Charan Ram Sai
 
-🎓 B.Tech CSE (AI & ML) student at SRM University
-💡 Interested in Artificial Intelligence, Machine Learning & Real-World Engineering
+**B.Tech CSE (AI & ML) @ SRM | Google Ambassador Shortlist | CR of 72 Students**
 
----
-
-## 🚀 Projects
-
-### 🎬 Movie Recommendation System
-
-* Built using Python, NLP, and Machine Learning
-* Uses cosine similarity to recommend movies
-* Implemented data preprocessing, feature engineering, and vectorization
+"Execution > Perfection." I am a 17-year-old AI & ML Engineering student focused on building and deploying Applied AI, Local LLMs, and Hardware/Edge systems. I operate on an RTX 5070 local workstation.
 
 ---
 
-## 🛠️ Skills
+## 🚀 Featured Projects
 
-* Python
-* C / C++
-* Pandas, NumPy
-* Machine Learning Basics
-* Git & GitHub
+### 🎬 [CineMatch: AI Movie Recommendation Engine](https://github.com/charankotta32-star/movie-recommendation-system)
+* **Live App:** [View on Streamlit](https://movie-recommendation-system-mgbywxwexappja543tp7j7n.streamlit.app/)
+* **Tech Stack:** Python, Scikit-Learn, Pandas, NLP (Cosine Similarity, PorterStemmer)
+* **Details:** End-to-end content-based recommendation system deployed globally.
 
----
-
-## 🎯 Goals
-
-* Build strong real-world projects
-* Gain internship experience
-* Work in top tech companies (AI/ML domain)
+### ⚙️ [Edge Hardware: RFID Smart Attendance System](https://github.com/charankotta32-star/rfid-attendance-system)
+* **Tech Stack:** C++, Arduino, SPI Communication
+* **Details:** Built a hardware-to-software attendance bridge. (Successfully debugged an Arduino 2KB RAM crash by refactoring String objects to C-style char arrays).
 
 ---
 
-## 📫 Connect with me
+## 🛠️ Tech Stack & Arsenal
+* **Languages:** Python, C, C++
+* **AI/ML:** Scikit-Learn, Pandas, NumPy, NLP, Streamlit
+* **Hardware:** Local RTX 5070 Workstation, Embedded Systems (Arduino)
+* **Current Focus:** LangChain, RAG, NVIDIA DLI Ecosystem
 
-* LinkedIn (coming soon)
+---
+
+## 📫 Connect With Me
+* **LinkedIn:** https://www.linkedin.com/in/charan-kotta
+* **Email:** charankotta32@gmail.com
