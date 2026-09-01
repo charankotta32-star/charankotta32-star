@@ -2,7 +2,7 @@
 
 **B.Tech CSE (AI & ML) @ SRM | Google Ambassador Shortlist | CR of 72 Students**
 
-"Execution > Perfection." I am a 17-year-old AI & ML Engineering student focused on building and deploying Applied AI, Local LLMs, and Hardware/Edge systems. I operate on an RTX 5070 local workstation.
+"Execution > Perfection." I am a 18-year-old AI & ML Engineering student focused on building and deploying Applied AI, Local LLMs, and Hardware/Edge systems. I operate on an RTX 5070 local workstation.
 
 ---
 
