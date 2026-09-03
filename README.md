@@ -22,7 +22,7 @@
 ## 🛠️ Tech Stack & Arsenal
 * **Languages:** Python, C, C++
 * **AI/ML:** Scikit-Learn, Pandas, NumPy, NLP, Streamlit
-* **Hardware:** Local RTX 5070 Workstation, Embedded Systems (Arduino)
+* **Hardware:** Local RTX 5070 Workstation, Embedded Systems (Arduino), ESP32-S3 
 * **Current Focus:** LangChain, RAG, NVIDIA DLI Ecosystem, Ros2, Isaac Sim
 
 ---
